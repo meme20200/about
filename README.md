@@ -4,16 +4,16 @@ meme20200.minehut.gg
 ```
 I hope this helped you with understanding what is meme20200
 # Links
-https://git20200.gq
+[Home](https://git20200.gq)
 <br>
-https://api.git20200.gq
+[API](https://api.git20200.gq)
 <br>
-https://home.git20200.gq
+[Old Home](https://home.git20200.gq)
 <br>
-https://meme20200.github.io
+[Home(Github)](https://meme20200.github.io)
 <br>
-https://reddit.com/r/meme20200
+[Reddit](https://reddit.com/r/meme20200)
 <br>
-https://app.branchbeta.com/branch/meme20200
+[Branch Beta](https://app.branchbeta.com/branch/meme20200)
 <br>
-https://discord.gg/c9xxRF7eFb
+[Discord](https://discord.gg/c9xxRF7eFb)
