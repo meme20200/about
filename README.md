@@ -2,3 +2,12 @@ meme20200 a Dupe SMP Server which is on Minehut which has started meme20200, mem
 ```
 meme20200.minehut.gg
 ```
+I hope this helped you with understanding what is meme20200
+# Links
+https://git20200.gq
+https://api.git20200.gq
+https://home.git20200.gq
+https://meme20200.github.io
+https://reddit.com/r/meme20200
+https://app.branchbeta.com/branch/meme20200
+https://discord.gg/c9xxRF7eFb
