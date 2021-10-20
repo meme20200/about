@@ -5,9 +5,15 @@ meme20200.minehut.gg
 I hope this helped you with understanding what is meme20200
 # Links
 https://git20200.gq
+<br>
 https://api.git20200.gq
+<br>
 https://home.git20200.gq
+<br>
 https://meme20200.github.io
+<br>
 https://reddit.com/r/meme20200
+<br>
 https://app.branchbeta.com/branch/meme20200
+<br>
 https://discord.gg/c9xxRF7eFb
